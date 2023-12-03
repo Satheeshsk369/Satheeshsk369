@@ -2,11 +2,19 @@
 
 ## I'm Satheeshkumar 
 
-- 🔭 I’m currently studing _MSc Theoretical Physics_ at University of Madras.
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+    ⚛️ I’m currently studing MSc Theoretical Physics at University of Madras.
+
+## Interests 
+- Quantum Computing 
+- Artificial Intelligence 
+- Computational Physics
+- Real-World Simulation
+
+## Programming Language
+- Python 🐍
+- Haskell λ
+- Rust 🦀
+- C++ 💻 
+
+## Reach out
+- [LinkedIn](https://www.linkedin.com/in/satheeshsk369/)
